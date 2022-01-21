@@ -1,0 +1,36 @@
+{
+  "name": "ecommerce",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@shopify/polaris": "^7.4.1",
+    "@shopify/polaris-tokens": "^4.0.0",
+    "@types/node": "^16.11.11",
+    "add": "^2.0.6",
+    "axios": "^0.24.0",
+    "lodash-es": "^4.17.21",
+    "path": "^0.12.7",
+    "qs": "^6.10.1",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-router-dom": "^6.0.2",
+    "sass": "^1.44.0",
+    "styled-components": "^5.3.3",
+    "yarn": "^1.22.17"
+  },
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.5",
+    "@types/qs": "^6.9.7",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@types/styled-components": "^5.1.16",
+    "@vitejs/plugin-react": "^1.0.0",
+    "@vitejs/plugin-react-refresh": "^1.3.6",
+    "typescript": "^4.3.2",
+    "vite": "^2.6.4"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "resources/js/main.tsx": {
+    "file": "assets/main.8d97ec2e.js",
+    "src": "resources/js/main.tsx",
+    "isEntry": true,
+    "imports": [
+      "_vendor.d23fde34.js"
+    ],
+    "css": [
+      "assets/main.1d6dc3e1.css"
+    ]
+  },
+  "_vendor.d23fde34.js": {
+    "file": "assets/vendor.d23fde34.js"
+  }
+}
